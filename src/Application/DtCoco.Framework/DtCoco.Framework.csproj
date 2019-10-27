@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\DtCoco.Orm.EntityFramework\DtCoco.Orm.EntityFramework.csproj" />
+    <ProjectReference Include="..\..\Core\DtCoco.Oss.Aliyun\DtCoco.Oss.Aliyun.csproj" />
+    <ProjectReference Include="..\DtCoco.Core\DtCoco.Core.csproj" />
+    <ProjectReference Include="..\DtCoco.Services\DtCoco.Services.csproj" />
+  </ItemGroup>
+
+</Project>
