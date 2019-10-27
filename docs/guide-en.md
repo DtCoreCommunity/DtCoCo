@@ -2,37 +2,37 @@
 
 ```
 project/src
-©¦
-©¸©¤©¤©¤Application(Some announcement dependencies of output project)
-©¦   ©¦
-©¦   ©¸©¤©¤©¤DtCoco.Core(Encapsulation of some common code in the project)
-©¦   ©¸©¤©¤©¤DtCoco.Data(Data entity, ORM extension and other codes)
-©¦   ©¸©¤©¤©¤DtCoco.Framework(Foreground check authority, general code extraction of output project, secondary encapsulation of third-party components)
-©¦   ©¸©¤©¤©¤DtCoco.Services(Project business module code)
-©¦   
-©¸©¤©¤©¤Core(Encapsulation of some third-party libraries,Independent component, which can publish the library of nuget package)
-©¦   ©¦
-©¦   ©¸©¤©¤©¤DtCoco.Interface
-©¦   ©¸©¤©¤©¤DtCoco.Orm.EntityFramework
-©¦   ©¸©¤©¤©¤DtCoco.Orm.SqlSugar
-©¦   ©¸©¤©¤©¤DtCoco.Oss.Aliyun
-©¦   ©¸©¤©¤©¤DtCoco.Oss.Minio
-©¦   ©¸©¤©¤©¤... Other components
-©¦
-©¸©¤©¤©¤Main(Store application output library such as front and rear interface)
-©¦   ©¦
-©¦   ©¸©¤©¤©¤DtCoco.Api.Backend
-©¦   ©¸©¤©¤©¤DtCoco.Api.Web
-©¦   ©¸©¤©¤©¤... Other project api
-©¦
-©¸©¤©¤©¤Tasks
-©¦   ©¦
-©¦   ©¸©¤©¤©¤DtCoco.Task.InitData
-©¦   ©¸©¤©¤©¤... Other task
-©¦
-©¸©¤©¤©¤Tests
-©¦   ©¦
-©¦   ©¸©¤©¤©¤DtCoco.UnitTest
-©¦   ©¸©¤©¤©¤... Other test
-©¦
+â”‚
+â””â”€â”€â”€Application(Some announcement dependencies of output project)
+â”‚   â”‚
+â”‚   â””â”€â”€â”€DtCoco.Core(Encapsulation of some common code in the project)
+â”‚   â””â”€â”€â”€DtCoco.Data(Data entity, ORM extension and other codes)
+â”‚   â””â”€â”€â”€DtCoco.Framework(Foreground check authority, general code extraction of output project, secondary encapsulation of third-party components)
+â”‚   â””â”€â”€â”€DtCoco.Services(Project business module code)
+â”‚   
+â””â”€â”€â”€Core(Encapsulation of some third-party libraries,Independent component, which can publish the library of nuget package)
+â”‚   â”‚
+â”‚   â””â”€â”€â”€DtCoco.Interface
+â”‚   â””â”€â”€â”€DtCoco.Orm.EntityFramework
+â”‚   â””â”€â”€â”€DtCoco.Orm.SqlSugar
+â”‚   â””â”€â”€â”€DtCoco.Oss.Aliyun
+â”‚   â””â”€â”€â”€DtCoco.Oss.Minio
+â”‚   â””â”€â”€â”€... Other components
+â”‚
+â””â”€â”€â”€Main(Store application output library such as front and rear interface)
+â”‚   â”‚
+â”‚   â””â”€â”€â”€DtCoco.Api.Backend
+â”‚   â””â”€â”€â”€DtCoco.Api.Web
+â”‚   â””â”€â”€â”€... Other project api
+â”‚
+â””â”€â”€â”€Tasks
+â”‚   â”‚
+â”‚   â””â”€â”€â”€DtCoco.Task.InitData
+â”‚   â””â”€â”€â”€... Other task
+â”‚
+â””â”€â”€â”€Tests
+â”‚   â”‚
+â”‚   â””â”€â”€â”€DtCoco.UnitTest
+â”‚   â””â”€â”€â”€... Other test
+â”‚
 ```
